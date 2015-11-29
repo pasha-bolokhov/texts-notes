@@ -1,3 +1,6 @@
 [submodule "busstep"]
 	path = busstep
 	url = git@github.com:pasha-bolokhov/busstep.git
+[submodule "na-strings"]
+	path = na-strings
+	url = git@github.com:pasha-bolokhov/notes-na-strings.git
